@@ -23,22 +23,29 @@ Users should be able to:
 - **Bonus**: Toggle the mobile menu (requires some JavaScript)
 
 ### Screenshot
-- MOBILE-RESPONSIVE
+- **MOBILE-RESPONSIVE**
+
 ![](./assets/screenshots/Mobile-Responsive.png)
 
-- TABLET-RESPONSIVE
+
+- **TABLET-RESPONSIVE**
+
 ![](./assets/screenshots/Tablet%20-Responsive.png)
 
-- LAPTOP-RESPONSIVE
+
+- **LAPTOP-RESPONSIVE**
+
 ![](./assets/screenshots/Laptop-Responsive.png)
 
-- DESKTOP RESPONSIVE
+
+- **DESKTOP RESPONSIVE**
+
 ![](./assets/screenshots/Desktop-Responsive.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/news-homepage-7OOsnyae5K)
+- Live Site URL: [Add live site URL here](responsive-news-homepage-exhj6sc37-heion31.vercel.app)
 
 ## My process
 
