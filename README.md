@@ -45,7 +45,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/news-homepage-7OOsnyae5K)
-- Live Site URL: [Add live site URL here](responsive-news-homepage-exhj6sc37-heion31.vercel.app)
+- Live Site URL: [Add live site URL here](https://nimble-muffin-19391b.netlify.app/)
 
 ## My process
 
