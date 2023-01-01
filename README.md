@@ -25,22 +25,22 @@ Users should be able to:
 ### Screenshot
 - **MOBILE-RESPONSIVE**
 
-![](./assets/screenshots/Mobile-Responsive.png)
+![](./assets/screenshots/Mobile-Responsives.png)
 
 
 - **TABLET-RESPONSIVE**
 
-![](./assets/screenshots/Tablet%20-Responsive.png)
+![](./assets/screenshots/Tablet%20-Responsives.png)
 
 
 - **LAPTOP-RESPONSIVE**
 
-![](./assets/screenshots/Laptop-Responsive.png)
+![](./assets/screenshots/Laptop-Responsives.png)
 
 
 - **DESKTOP RESPONSIVE**
 
-![](./assets/screenshots/Desktop-Responsive.png)
+![](./assets/screenshots/Desktop-Responsives.png)
 
 ### Links
 
