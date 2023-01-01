@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>News Homepage</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+
+    <!-- FONT-FAMILY -->
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap" rel="stylesheet">
+  </head>
+  
+  <body>
+    <div id="main-container">
+
+      <!-- HEADER -->
+      <header>
+        <img id="header-logo" src="./assets/images/logo.svg" alt="">
+        
+        <!-- NAV LINKS -->
+        <nav>
+          <ul class="nav-links">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">New</a></li>
+            <li><a href="#">Popular</a></li>
+            <li><a href="#">Trending</a></li>
+            <li><a href="#">Categories</a></li>
+          </ul>
+        </nav>
+
+        <div id="menu-button">
+          <a href="#"><img id="menu-open" class="toggle-open" src="./assets/images/icon-menu.svg" alt="Open Navigation Bar"></a> 
+          <a href="#"><img id="menu-close" class="toggle-close" src="./assets/images/icon-menu-close.svg" alt="Close Navigation Bar"></a>
+        </div>
+      </header>
+      
+      <!-- MAIN CONTENT -->
+      <main>
+
+        <!-- TOP CONTAINER-->
+        <div id="section-top-container">
+          
+          <!-- SECTION 1 -->
+          <section id="section-1">
+            <img id="section1-desktop-img" src="./assets/images/image-web-3-desktop.jpg" alt="">
+            <img id="section1-mobile-img" src="./assets/images/image-web-3-mobile.jpg" alt="">
+
+            <!-- SECTION-1 BOTTOM CONTAINER -->
+            <div id="section1-text-container">
+              <!-- BOTTOM-LEFT CONTAINER-->
+              <div id="section1-left-container">
+                <h1>The Bright Future of Web 3.0?</h1>
+              </div>
+              <!-- BOTTOM-RIGHT CONTAINER-->
+              <div id="section1-right-container">
+                <p>We dive into the next evolution of the web that claims to put the power of the platforms back into the hands of the people. 
+                  But is it really fulfilling its promise?</p>
+                <button>Read more</button>
+              </div>
+            </div>
+          </section>
+
+          <!-- SECTION 2 -->
+          <section id="section-2">
+            <!-- 1ST CONTAINER -->
+            <h2 id="section2-header">New</h2>
+            <h3 class="section2-title"><a href="#">Hydrogen VS Electric Cars</a></h3>
+            <p class="section2-description">Will hydrogen-fueled cars ever catch up to EVs?</p>
+            <hr class="section2-divider">
+            <!-- 2ND CONTAINER -->
+            <h3 class="section2-title"><a href="#"> The Downsides of AI Artistry</a></h3>
+            <p class="section2-description" >What are the possible adverse effects of on-demand AI image generation?</p>
+            <hr class="section2-divider">
+            <!-- 3RD CONTAINER -->
+            <h3 class="section2-title"><a href="#"> Is VC Funding Drying Up?</a></h3>
+            <p class="section2-description" >Private funding by VC firms is down 50% YOY. We take a look at what that means.</p>
+          </section>
+        </div>
+        
+        <!-- BOTTOM CONTAINER -->
+        <!-- SECTION 3 -->
+        <section id="section-3">
+          <!-- 1ST CONTAINER -->
+          <div class="section3-mb section3-container">
+            <img src="./assets/images/image-retro-pcs.jpg" alt="">
+            <div class="right-content">
+              <h3 class="section3-number">01</h3>
+              <h4 class="section3-title"><a href="#">Reviving Retro PCs</a></h4>
+              <p class="section3-description">What happens when old PCs are given modern upgrades?</p>
+            </div>
+          </div>
+          <!-- 2ND CONTAINER -->
+          <div class="section3-mb section3-container">
+            <img src="./assets/images/image-top-laptops.jpg" alt="">
+            <div class="right-content">
+              <h3 class="section3-number">02</h3>
+              <h4 class="section3-title"><a href="#">Top 10 Laptops of 2022</a></h4>
+              <p class="section3-description">Our best picks for various needs and budgets.</p>
+            </div>
+          </div>
+          <!-- 3RD CONTAINER -->
+          <div class="section3-container">
+            <img src="./assets/images/image-gaming-growth.jpg" alt="">
+            <div class="right-content">
+              <h3 class="section3-number">03</h3>
+              <h4 class="section3-title"><a href="#">The Growth of Gaming</a></h4>
+              <p class="section3-description">How the pandemic has sparked fresh opportunities.</p>
+            </div>
+          </div>
+        </section>
+
+      </main>
+    </div>
+    
+    <!-- <div class="attribution">
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+      Coded by <a href="#">Heion</a>.
+    </div> -->
+ 
+    <script src="app.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+  </body>
+</html>
