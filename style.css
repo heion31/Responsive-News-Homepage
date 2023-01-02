@@ -77,6 +77,8 @@ header a:hover {
 #section-top-container {
     display: flex;
     margin-bottom: 2.7rem;
+    position: relative;
+    z-index: -1;
 }
 
 /* SECTION-1 */
@@ -148,7 +150,7 @@ header a:hover {
     padding: 1rem 0.8rem;
     background-color: var(--very-dark-blue);
     color: var(--off-white);
-    flex-basis: 32%;    
+    flex-basis: 32%; 
 }
 
 #section2-header {
