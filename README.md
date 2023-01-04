@@ -60,7 +60,7 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@heion31](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@heion31](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@heion31](https://www.frontendmentor.io/profile/heion31)
+- Twitter - [@heion31](https://www.twitter.com/heion31)
 
 
